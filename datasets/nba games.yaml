@@ -1,0 +1,13 @@
+createdAt: 2022-09-01T20:04:26.710Z
+modifiedAt: 2022-09-01T20:04:26.710Z
+query: |-
+  select
+    *
+  from
+    DEMO_SCHEMA.NBA_GAME_DETAILS
+  where
+    FGM is not null
+sqlModifiedAt: 2022-09-01T20:04:26.710Z
+owner: harry@modelbit.com
+warehouse: snowflake/demo warehouse
+schemaVersion: 2
